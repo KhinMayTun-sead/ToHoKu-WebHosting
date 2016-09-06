@@ -260,9 +260,41 @@ nav {
 .button {
   height: 100px;
 }
-/*** /buton ***/
+/*** /button ***/
 /*** footer ***/
 footer {
   height: 385px;
 }
 /*** /footer ***/
+
+
+/*** faq ***/
+
+.head-sp {
+  text-transform: uppercase;
+}
+
+.img-txtr {
+  padding-right: 25px;
+  padding-bottom: 40px;
+}
+
+.img03 {
+  width: 70px;
+  height: 65px;
+  background-color: #ff8261;
+  font-size: 25px;
+  color: #fff;
+  text-align: center;
+  padding: 14px 0;
+  font-weight: bold;
+}
+
+ .img-tit01 {
+  padding-top: 20px;
+  text-transform: uppercase;
+} 
+
+.faq-box {
+  margin-bottom: 30px;
+}
